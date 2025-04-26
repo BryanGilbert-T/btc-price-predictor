@@ -1,4 +1,4 @@
-#BITCOIN PRICE PREDICTOR
+# BITCOIN PRICE PREDICTOR
 I scraped data from reddit
 then find the sentiment with the bitcoin price I scraped from yahoo finance
 you can scrape your own subreddits and train with your choosen model with this operands
