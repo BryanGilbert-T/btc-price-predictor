@@ -7,7 +7,7 @@ User Guide:
 1. Scrape [subreddit-name]
 --- Will scrape [subreddit-name] subreddit
 
-2. Train [model-name]
+3. Train [model-name]
 --- Will train the A.I. with model [model-name]
 --- There are 3 models:
 - --- ---1) A
@@ -18,5 +18,5 @@ User Guide:
 --- Will test the model with the given data and...
 --- predict will bitcoin go up or down in the next hour
 
-4. Quit
+5. Quit
 --- Will quit the program
