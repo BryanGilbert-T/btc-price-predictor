@@ -10,9 +10,9 @@ User Guide:
 2. Train [model-name]
 --- Will train the A.I. with model [model-name]
 --- There are 3 models:
---- ---1) A
---- ---2) B
---- ---3) C
+- --- ---1) A
+- --- ---2) B
+- --- ---3) C
 
 3. Test "[title]" [upvote-num] [comment-num]
 --- Will test the model with the given data and...
